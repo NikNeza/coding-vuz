@@ -1,4 +1,2 @@
-def n(*args: int):
-    print(args)
+def s(): ...
 
-n(1, 2, [222, "222"])
